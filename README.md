@@ -1,6 +1,6 @@
 # ♟️ Good Old Chess
 
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+![GitHub license](https://img.shields.io/github/license/MeethCodes/Good_Old_Chess)
 ![GitHub forks](https://img.shields.io/github/forks/MeethCodes/Good_Old_Chess?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/MeethCodes/Good_Old_Chess?style=social)
 
